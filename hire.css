@@ -1,0 +1,14 @@
+*{
+    flex: auto;
+}
+.main h1{
+    text-align:center;
+    color: slategrey;
+}
+.main img{
+    margin-left: 15%;
+    display: flex;
+}
+.mail{
+    text-align: center;
+}
